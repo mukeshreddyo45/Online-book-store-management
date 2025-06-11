@@ -1,4 +1,4 @@
-# Online-book-store-management
+# Online Bookstore Management System
 
 ## Description
 A Java desktop application for managing book sales, inventory, and orders. Built using Swing, JDBC, and MySQL.
